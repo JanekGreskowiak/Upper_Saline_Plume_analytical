@@ -1,4 +1,4 @@
-This repository contains an interactive juptyter notebook to compute the groundwater flow field for tide-induced recirculation within a beach aquifer,
+This repository contains an interactive juptyter notebook to compute the groundwater flow field for tide- and wave-induced recirculation within a beach aquifer,
 based on a semi-analytical approximation presented in:
 
 Greskowiak, J., Holtappels, M., 2026. Tide- and wave-induced recirculation flux in sandy beach aquifers – Semi-analytical approximation and uncertainty assessment. Estuarine, Coastal and Shelf Science 109742. https://doi.org/10.1016/j.ecss.2026.109742
